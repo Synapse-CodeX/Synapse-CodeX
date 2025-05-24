@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Debshuvra Sarkar</h1>  
+<h1 align="center">Hi 👋, I'm Debshuvra Sarkar</h1>   
 <h3 align="center">Training models and myself | ML in Progress 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synapse-codex&label=Profile%20views&color=0e75b6&style=flat" alt="synapse-codex" /> </p>
