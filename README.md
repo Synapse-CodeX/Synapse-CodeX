@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Debshuvra Sarkar</h1>   
+<h1 align="center">Hi <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Debshuvra Sarkar</h1>   
 <h3 align="center">Training models and myself | ML in Progress 🚀</h3>
 
 <p align="center">
