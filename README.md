@@ -11,7 +11,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Web+Development;Power+Engineering+@+JU+'28;%F0%9F%8E%B9&center=true&width=500&height=30">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+,+Deep+Learning+,+Gen+AI+Enthusiast;Passionate+about+Web+Development;Power+Engineering+@+JU+'28;%F0%9F%8E%B9&center=true&width=500&height=30">
 </p>
 
 ---
