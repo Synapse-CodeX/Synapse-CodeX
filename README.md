@@ -1,11 +1,5 @@
- <div align="center">
-  <h1>
-    Hi 
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-    , I'm Debshuvra Sarkar
-  </h1>
-</div>
- 
+<p align="center"><a href="https://Synapse-CodeX.github.io"><img width="80%" alt="Hello! I'm Debshuvra Sarkar" src="./assets/gh-readme-header.png" /></a></p> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+    
 <h3 align="center">Training models and myself | ML in Progress 🚀</h3>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
