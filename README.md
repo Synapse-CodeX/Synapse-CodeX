@@ -12,6 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Web+Development;Power+Engineering+@+JU+'28;%F0%9F%8E%B9&center=true&width=500&height=30">
 </p>
 
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synapse-codex&label=Profile%20views&color=0e75b6&style=flat" alt="synapse-codex" /> </p>
