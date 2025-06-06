@@ -18,8 +18,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synapse-codex&label=Profile%20views&color=0e75b6&style=flat" alt="synapse-codex" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Synapse-CodeX" alt="Synapse-CodeX" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning**, **Deep Learning** and **Gen AI**
 
 - 📫 How to reach me **debshuvra2005@gmail.com**
@@ -73,6 +71,9 @@
 </p>
 
 ---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Synapse-CodeX" alt="Synapse-CodeX" /></a> </p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
