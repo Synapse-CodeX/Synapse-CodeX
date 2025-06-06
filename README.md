@@ -49,15 +49,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarinsanyal&show_icons=true&theme=radical" alt="sarinsanyal github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Synapse-CodeX&show_icons=true&theme=radical" alt="Debshuvra's Github Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sarinsanyal&theme=radical&hide_border=true" alt="sarinsanyal streak" />
+  <img src="https://streak-stats.demolab.com?user=Synapse-CodeX&theme=radical&hide_border=true" alt="Debshuvra Sarkar Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinsanyal&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synapse-CodeX&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
