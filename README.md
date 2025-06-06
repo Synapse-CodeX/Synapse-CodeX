@@ -1,4 +1,11 @@
-<p align="center"><a href="https://Synapse-CodeX.github.io"><img width="80%" alt="Hello! I'm Debshuvra Sarkar" src="./assets/gh-readme-header.png" /></a></p> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+<p align="center">
+  <a href="https://Synapse-CodeX.github.io">
+    <img width="80%" alt="Hello 😎 I'm Debshuvra Sarkar" src="./assets/gh-readme-header.png" />
+  </a>
+</p>
+
+
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
     
 <h3 align="center">Training models and myself | ML in Progress 🚀</h3>
 
