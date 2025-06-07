@@ -26,7 +26,7 @@
 
 - <img src="images/message.gif" width="30"/> Ask me about: **Football, Tech, MCU**
 
-- <img src="images/lightning.gif" width="15"/>  Fun fact **I once trained a neural network to recognize my handwriting better than my professors can !** 
+- <img src="images/lightning.gif" width="15"/>  Fun fact ***I once trained a neural network to recognize my handwriting better than my professors can !*** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
