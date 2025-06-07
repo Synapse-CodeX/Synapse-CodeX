@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **debshuvra2005@gmail.com**
 
-- <img src="images/lightning.gif" width="20"/> Fun fact **I once trained a neural network to recognize my handwriting better than my professors can !** 
+- <img src="images/lightning.gif" width="15"/>  Fun fact **I once trained a neural network to recognize my handwriting better than my professors can !** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
