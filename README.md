@@ -69,8 +69,9 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Synapse-CodeX" alt="Synapse-CodeX" /></a> </p>
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Synapse-CodeX&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
