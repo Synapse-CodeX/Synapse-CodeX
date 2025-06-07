@@ -87,7 +87,9 @@
 
 <img src="https://raw.githubusercontent.com/Synapse-CodeX/Synapse-CodeX/output/snake.svg" alt="Snake animation" />
 
-![Spotify Now Playing](https://spotify-github-profile.kittinanx.com/api/view?uid=31jsctn3fuhobut2rddsqhw7o66m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31jsctn3fuhobut2rddsqhw7o66m)
+</div>
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
