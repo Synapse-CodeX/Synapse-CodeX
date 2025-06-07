@@ -87,12 +87,7 @@
 
 <img src="https://raw.githubusercontent.com/Synapse-CodeX/Synapse-CodeX/output/snake.svg" alt="Snake animation" />
 
-&nbsp;<div align="center">
-  [![Spotify](https://Synapse-CodeX.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31jsctn3fuhobut2rddsqhw7o66m)
-</div>
-
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="200" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
