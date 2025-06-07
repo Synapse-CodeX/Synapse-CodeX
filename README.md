@@ -85,7 +85,7 @@
 
 <img src="https://raw.githubusercontent.com/Synapse-CodeX/Synapse-CodeX/output/snake.svg" alt="Snake animation" />
 
-
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
