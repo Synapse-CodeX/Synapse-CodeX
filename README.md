@@ -87,13 +87,7 @@
 
 <img src="https://raw.githubusercontent.com/Synapse-CodeX/Synapse-CodeX/output/snake.svg" alt="Snake animation" />
 
-### 🎶 What's playing on my Spotify
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31jsctn3fuhobut2rddsqhw7o66m&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jsctn3fuhobut2rddsqhw7o66m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
-  </a>
-</p>
+![Spotify Now Playing](https://spotify-github-profile.kittinanx.com/api/view?uid=31jsctn3fuhobut2rddsqhw7o66m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
