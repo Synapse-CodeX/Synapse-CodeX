@@ -88,7 +88,7 @@
 <img src="https://raw.githubusercontent.com/Synapse-CodeX/Synapse-CodeX/output/snake.svg" alt="Snake animation" />
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31jsctn3fuhobut2rddsqhw7o66m)
+  [![Spotify](https://Synapse-CodeX.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31jsctn3fuhobut2rddsqhw7o66m)
 </div>
 
 
