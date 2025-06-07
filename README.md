@@ -20,11 +20,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synapse-codex&label=Profile%20views&color=0e75b6&style=flat" alt="synapse-codex" /> </p>
 
-- <img src="images/Developer.gif" width="20"/> I’m currently learning **Machine Learning**, **Deep Learning** and **Gen AI**
+- <img src="images/Developer.gif" width="40"/> I’m currently learning **Machine Learning**, **Deep Learning** and **Gen AI**
 
-- <img src="images/letterbox.gif" width="20"/> How to reach me **debshuvra2005@gmail.com**
+- <img src="images/letterbox.gif" width="30"/> How to reach me **debshuvra2005@gmail.com**
 
-- <img src="images/message.gif" width="20"/> Ask me about: **Football, Tech, MCU**
+- <img src="images/message.gif" width="30"/> Ask me about: **Football, Tech, MCU**
 
 - <img src="images/lightning.gif" width="15"/>  Fun fact **I once trained a neural network to recognize my handwriting better than my professors can !** 
 
