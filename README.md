@@ -4,7 +4,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
     , I'm Debshuvra Sarkar
   </h1>
-
+ 
   <h3>Training models and myself | ML in Progress 🚀</h3>
 
   <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Passionate+about+Web+Development;Power+Engineering+@+JU+'28;%F0%9F%8E%B9&center=true&width=600&height=30" style="display:block; margin:auto;" />
