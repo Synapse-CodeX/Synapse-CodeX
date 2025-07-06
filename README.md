@@ -45,7 +45,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/Debshuvra_Sarkar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/akshat46/FOSS-Icons/main/PNG/Codeforces.png" alt="Codeforces" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
 </p>
 
