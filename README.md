@@ -33,22 +33,21 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/debshuvra-sarkar">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="45" height="45"/>
   </a>
   <a href="https://kaggle.com/debshuvrasarkar">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3628950-3030006.png" alt="Kaggle" width="40" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3628950-3030006.png" alt="Kaggle" width="45" height="45"/>
   </a>
   <a href="https://instagram.com/debshuvra2005">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="45" height="45"/>
   </a>
   <a href="https://www.codechef.com/users/trashcoder_707">
-    <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="40" height="40"/>
+    <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="55" height="45"/>
   </a>
   <a href="https://codeforces.com/profile/Debshuvra_Sarkar">
-    <img src="https://sta.codeforces.com/s/59520/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="40" height="40"/>
+    <img src="https://sta.codeforces.com/s/59520/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="80" height="45"/>
   </a>
 </p>
-
 ---
 
 
