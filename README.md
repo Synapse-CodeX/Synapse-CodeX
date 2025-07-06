@@ -29,6 +29,8 @@
 - <img src="images/lightning.gif" width="15"/>  Fun fact : ***I once trained a neural network to recognize my handwriting better than my professors can !*** 
 
 ---
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/debshuvra-sarkar" target="blank">
@@ -47,7 +49,9 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" alt="Debshuvra_Sarkar" height="30" width="40" />
   </a>
 </p>
+
 ---
+
 
 ### 🛠️ Tech Stack & Tools
 
