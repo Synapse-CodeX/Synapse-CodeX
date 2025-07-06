@@ -30,24 +30,13 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/debshuvra-sarkar">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="45" height="45"/>
-  </a>
-  <a href="https://kaggle.com/debshuvrasarkar">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3628950-3030006.png" alt="Kaggle" width="45" height="45"/>
-  </a>
-  <a href="https://instagram.com/debshuvra2005">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="45" height="45"/>
-  </a>
-  <a href="https://www.codechef.com/users/trashcoder_707">
-    <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="55" height="45"/>
-  </a>
-  <a href="https://codeforces.com/profile/Debshuvra_Sarkar">
-    <img src="https://sta.codeforces.com/s/59520/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="80" height="45"/>
-  </a>
-</p>
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debshuvra-sarkar)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white)](https://kaggle.com/debshuvrasarkar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/debshuvra2005)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/trashcoder_707)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Debshuvra_Sarkar)
 ---
 
 
