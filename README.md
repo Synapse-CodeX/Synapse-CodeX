@@ -28,7 +28,7 @@
 
 - <img src="images/lightning.gif" width="15"/>  Fun fact : ***I once trained a neural network to recognize my handwriting better than my professors can !*** 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## 🌐 Connect With Me
 
@@ -39,9 +39,7 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/trashcoder_707)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Debshuvra_Sarkar)
 
-
----
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -64,7 +62,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### 📊 GitHub Stats
 
@@ -80,7 +78,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synapse-CodeX&layout=compact&theme=radical" alt="Top Languages" />
 </p>
  
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Synapse-CodeX&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
