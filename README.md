@@ -12,10 +12,12 @@
  
   <h3>Training models and myself | ML in Progress 🚀</h3>
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+and+Deep+Learning+Enthusiast;Passionate+about+Competitive+Programming;Learning+Full+Stack+Web+Development;Power+Engineering+@+JU+'28;%F0%9F%8E%B9&center=true&width=600&height=30" style="display:block; margin:auto;" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+and+Deep+Learning+Enthusiast;GenAI+&+Backend+Developer;%F0%9F%8E%B9&center=true&width=600&height=30" style="display:block; margin:auto;" />
 </div>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="right" alt="Coding"
+src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+width="280"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synapse-codex&label=Profile%20views&color=0e75b6&style=flat" alt="synapse-codex" /> </p>
