@@ -73,6 +73,7 @@ width="280"/>
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Synapse-CodeX" alt="trophy" />
 </div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
