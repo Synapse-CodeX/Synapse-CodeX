@@ -78,7 +78,6 @@ width="280"/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/Synapse-CodeX/Synapse-CodeX/output/snake.svg" alt="Snake animation" />
 
 ### 🎶 What's Playing on my Spotify
