@@ -83,7 +83,7 @@ width="280"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Synapse-CodeX&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
+  <img src="https://github-trophies.vercel.app/?username=Synapse-CodeX" alt="trophy" />
 </div>
 
 ### ✍️ Random Dev Quote
