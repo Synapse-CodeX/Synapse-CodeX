@@ -12,7 +12,7 @@
  
   <h3>Training models and myself | ML in Progress 🚀</h3>
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+and+Deep+Learning+Enthusiast;GenAI+developer;%F0%9F%8E%B9&center=true&width=600&height=30" style="display:block; margin:auto;" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+and+Deep+Learning+Enthusiast;%F0%9F%8E%B9&center=true&width=600&height=30" style="display:block; margin:auto;" />
 </div>
 
 <img align="right" alt="Coding"
@@ -67,18 +67,6 @@ width="280"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Synapse-CodeX&show_icons=true&theme=radical" alt="Debshuvra's Github Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Synapse-CodeX&theme=radical&hide_border=true" alt="Debshuvra Sarkar Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synapse-CodeX&layout=compact&theme=radical" alt="Top Languages" />
-</p>
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
