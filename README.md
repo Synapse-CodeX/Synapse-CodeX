@@ -24,9 +24,9 @@ width="280"/>
 
 - <img src="images/Developer.gif" width="40"/> I’m currently focussed on **Machine Learning**, **Deep Learning** and **Gen AI**
 
-- <img src="images/letterbox.gif" width="30"/> How to reach me **debshuvra2005@gmail.com**
+- <img src="images/letterbox.gif" width="30"/> How to reach me ? --> **debshuvra2005@gmail.com**
 
-- <img src="images/message.gif" width="30"/> Ask me about: **Football, Tech, MCU**
+- <img src="images/message.gif" width="30"/> Ask me about: **Tech, Sports, Card Tricks**
 
 - <img src="images/lightning.gif" width="15"/>  Fun fact: ***I once trained a neural network to recognize my handwriting better than my professors can !*** 
 
