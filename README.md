@@ -10,7 +10,7 @@
     , I'm Debshuvra Sarkar
   </h1>
  
-  <h3>Training models and myself | ML in Progress 🚀</h3>
+  <h3>Training models and myself 🚀</h3>
 
   <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+and+Deep+Learning+Enthusiast;Deeply+exploring+Large+Language+Models;&center=true&width=600&height=30" style="display:block; margin:auto;" />
 </div>
