@@ -22,7 +22,7 @@ width="280"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synapse-codex&label=Profile%20views&color=0e75b6&style=flat" alt="synapse-codex" /> </p>
 
-- <img src="images/Developer.gif" width="40"/> I’m currently focussing on **Machine Learning**, **Deep Learning** and **Gen AI**
+- <img src="images/Developer.gif" width="40"/> I’m currently focussed on **Machine Learning**, **Deep Learning** and **Gen AI**
 
 - <img src="images/letterbox.gif" width="30"/> How to reach me **debshuvra2005@gmail.com**
 
