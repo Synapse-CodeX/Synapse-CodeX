@@ -26,9 +26,9 @@ width="280"/>
 
 - <img src="images/letterbox.gif" width="30"/> How to reach me ? --> **debshuvra2005@gmail.com**
 
-- <img src="images/message.gif" width="30"/> Ask me about: **Tech, Sports, Card Tricks, Movies & shows**
+- <img src="images/message.gif" width="30"/> Ask me about:  **Tech, Sports, Card Tricks, Movies & shows**
 
-- <img src="images/lightning.gif" width="15"/>  Fun fact: ***I once trained a neural network to recognize my handwriting better than my professors can !*** 
+- <img src="images/lightning.gif" width="15"/>  Fun fact:  ***I once trained a neural network to recognize my handwriting better than my professors can !*** 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
