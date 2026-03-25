@@ -81,6 +81,7 @@ width="280"/>
   <img src="https://github-trophies.vercel.app/?username=Synapse-CodeX" alt="trophy" />
 </div>
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Synapse-CodeX&show_icons=true&theme=radical" alt="Debshuvra's Github Stats" />
 </p>
