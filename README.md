@@ -83,16 +83,9 @@ width="280"/>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Synapse-CodeX&show_icons=true&theme=radical" alt="Debshuvra's Github Stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Synapse-CodeX&theme=radical&hide_border=true" alt="Debshuvra's streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synapse-CodeX&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
