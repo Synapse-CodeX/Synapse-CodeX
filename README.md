@@ -12,7 +12,7 @@
  
   <h3>Training models and myself 🚀</h3>
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+and+Deep+Learning+Enthusiast;Agentic+AI+Developer;Building+end+-to+-end+MLOps+pipelines;&center=true&width=600&height=30" style="display:block; margin:auto;" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+and+Deep+Learning+Enthusiast;Agentic+AI+Developer;Building+end-to-end+MLOps+pipelines;&center=true&width=600&height=30" style="display:block; margin:auto;" />
 </div>
 
 <img align="right" alt="Coding"
