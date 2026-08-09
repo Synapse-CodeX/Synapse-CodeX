@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">  
 	<img src="welcome-header.gif" alt="welcome to my github profile">
 	<br>
 	<br>
