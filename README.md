@@ -77,10 +77,13 @@ width="280"/>
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=Synapse-CodeX&theme=aurora" width="100%" alt="Technology stack" />
+</p>
+
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Synapse-CodeX" alt="trophy" />
 </div>
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Synapse-CodeX&theme=radical&hide_border=true" alt="Debshuvra's streak" />
