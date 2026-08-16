@@ -96,8 +96,14 @@ width="280"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
+### Contribution Animations
+
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Synapse-CodeX/Synapse-CodeX/output/snake.svg" alt="Snake animation" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Synapse-CodeX/Synapse-CodeX/output/space-shooter.gif" width="100%" alt="Animated Space Shooter contribution game" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
