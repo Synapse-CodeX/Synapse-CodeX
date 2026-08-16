@@ -78,7 +78,7 @@ width="280"/>
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=Synapse-CodeX&theme=aurora" width="100%" alt="Technology stack" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synapse-CodeX&theme=radical&hide_border=true" alt="Debshuvra's streak" />
 </p>
 
 <div align="center">
@@ -86,7 +86,7 @@ width="280"/>
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Synapse-CodeX&theme=radical&hide_border=true" alt="Debshuvra's streak" />
+  <img src="https://www.gitskins.com/api/section/stack?username=Synapse-CodeX&theme=aurora" width="100%" alt="Technology stack" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
@@ -98,8 +98,12 @@ width="280"/>
 
 ### Contribution Animations
 
+#### 🐍 Snake Contribution Grid
+
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Synapse-CodeX/Synapse-CodeX/output/snake.svg" alt="Snake animation" />
+
+#### 👾 Space Shooter Contribution Game
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Synapse-CodeX/Synapse-CodeX/output/space-shooter.gif" width="100%" alt="Animated Space Shooter contribution game" />
