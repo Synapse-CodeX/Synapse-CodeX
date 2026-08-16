@@ -31,7 +31,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python -m pip install --disable-pip-version-check "gh-space-shooter==2.0.4"
-          gh-space-shooter asamassekou10 --output dist/space-shooter.gif --strategy random --fps 30
+          gh-space-shooter Synapse-CodeX --output dist/space-shooter.gif --strategy random --fps 30
 
       - name: Publish generated game
         env:
