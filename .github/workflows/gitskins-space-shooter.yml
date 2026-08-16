@@ -2,11 +2,14 @@ name: Generate GitSkins Space Shooter
 
 on:
   push:
+    branches:
+      - main
     paths:
       - README.md
       - .github/workflows/gitskins-space-shooter.yml
   schedule:
-    - cron: "0 0 * * *"
+    # Runs automatically every 2 hours
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 concurrency:
