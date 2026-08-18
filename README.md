@@ -123,6 +123,43 @@ width="280"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<h3>🚗 Vehicle Insurance — End-to-End MLOps Pipeline</h3>
+
+<p>
+An <b>end-to-end MLOps system</b> for vehicle insurance prediction, featuring data ingestion, validation, transformation, model training, evaluation, cloud integration, and deployment through a modular and production-oriented architecture.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<p>
+<a href="http://3.81.168.161:5000/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-0A66C2?style=for-the-badge"/>
+</a>
+&nbsp;
+<a href="https://github.com/Synapse-CodeX/Vehicle-Insurance">
+<img src="https://img.shields.io/badge/💻%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+
 ### 📊 GitHub Stats
 
 <!--
