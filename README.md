@@ -137,7 +137,7 @@ width="280"/>
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Synapse-CodeX/Synapse-CodeX/main/profile/trophy.svg" alt="trophy" />
+  <img src="https://github-trophies.vercel.app/?username=Synapse-CodeX" alt="trophy" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
