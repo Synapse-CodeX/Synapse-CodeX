@@ -114,21 +114,31 @@ width="280"/>
 
 </div>
 
+<!--
+  Removed the gitskins.com "stack" image here: it duplicated the badge
+  table above and added another unreliable, small third-party service.
+  If you want it back, uncomment the line below.
+  <img src="https://www.gitskins.com/api/section/stack?username=Synapse-CodeX&theme=aurora" width="100%" alt="Technology stack" />
+-->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### 📊 GitHub Stats
 
+<!--
+  These two used to call shared live endpoints (github-readme-streak-stats.herokuapp.com
+  and github-trophies.vercel.app) that get rate-limited / paused under load.
+  They're now generated once a day by GitHub Actions (see streak-stats.yml and
+  trophy.yml in .github/workflows/) and committed as static files, so they load
+  from your own repo instead of a shared third-party server.
+-->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synapse-CodeX&theme=radical&hide_border=true" alt="Debshuvra's streak" />
+  <img src="https://raw.githubusercontent.com/Synapse-CodeX/Synapse-CodeX/main/profile/streak.svg" alt="Debshuvra's streak" />
 </p>
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Synapse-CodeX" alt="trophy" />
+  <img src="https://raw.githubusercontent.com/Synapse-CodeX/Synapse-CodeX/main/profile/trophy.svg" alt="trophy" />
 </div>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=Synapse-CodeX&theme=aurora" width="100%" alt="Technology stack" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
@@ -163,5 +173,4 @@ width="280"/>
 
 <img height="200" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
