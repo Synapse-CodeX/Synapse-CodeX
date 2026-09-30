@@ -127,14 +127,65 @@ width="280"/>
 
 <table>
 <tr>
-<td width="100%" valign="top">
 
-<h3>🚗 Vehicle Insurance — End-to-End MLOps Pipeline</h3>
+<td width="50%" valign="top">
+
+<h3>🧠 ResearchMind — Multi-Agent AI Research System</h3>
 
 <p>
-An <b>end-to-end MLOps system</b> for vehicle insurance prediction, featuring data ingestion, validation, transformation, model training, evaluation, cloud integration, and deployment through a modular and production-oriented architecture.
+An <b>autonomous multi-agent research assistant</b> built with LangGraph that can search, analyze, synthesize, and critique research topics through a coordinated agent workflow.
 </p>
 
+<p>
+<b>⚙️ Stack:</b> Python · LangGraph · LangChain · Tavily · Hugging Face · BeautifulSoup · Streamlit
+</p>
+
+<p>
+<a href="https://github.com/Synapse-CodeX/Multi-Agent-AI-Research-System">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+</p>
+
+<ul>
+<li>Specialized <b>Search, Reader, Writer, and Critic agents</b></li>
+<li>Autonomous research orchestration using LangGraph StateGraph</li>
+<li>Real-time Streamlit dashboard for agent execution and structured research reports</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛡️ Credence AI — Multimodal AI Fact Verification Platform</h3>
+
+<p>
+A <b>multimodal AI-powered fact verification platform</b> that decomposes content into atomic claims, retrieves external evidence, and produces claim-level verdicts with confidence, reasoning, and cited sources.
+</p>
+
+<p>
+<b>⚙️ Stack:</b> React · FastAPI · LangChain · LangGraph · Tavily · LLMs · SSE · Vercel · Render
+</p>
+
+<p>
+<a href="https://github.com/Synapse-CodeX/Credence-AI">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="https://credence-ai-eta.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel" alt="Live Demo">
+</a>
+</p>
+
+<ul>
+<li>Claim extraction, external evidence retrieval, and LLM-based verification</li>
+<li>Real-time verification streaming using <b>Server-Sent Events (SSE)</b></li>
+<li>AI-generated content detection across <b>text, images, and videos</b></li>
+<li>Frame-level video analysis and deepfake detection pipelines</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
