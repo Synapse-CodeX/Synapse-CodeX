@@ -130,26 +130,31 @@ width="280"/>
 
 <td width="50%" valign="top">
 
-<h3>🧠 ResearchMind — Multi-Agent AI Research System</h3>
+<h3>📊 TubeInsight AI — YouTube Intelligence & Audience Research Platform</h3>
 
 <p>
-An <b>autonomous multi-agent research assistant</b> built with LangGraph that can search, analyze, synthesize, and critique research topics through a coordinated agent workflow.
+An <b>AI-powered YouTube audience intelligence platform</b> that analyzes video comments at scale to uncover audience sentiment, discussion topics, behavioral patterns, and actionable insights.
 </p>
 
 <p>
-<b>⚙️ Stack:</b> Python · LangGraph · LangChain · Tavily · Hugging Face · BeautifulSoup · Streamlit
+<b>⚙️ Stack:</b> React · FastAPI · LangChain · LangGraph · Groq · GPT-OSS 20B · Sentence Transformers · ChromaDB · YouTube Data API · Vercel · Cloud Run
 </p>
 
 <p>
-<a href="https://github.com/Synapse-CodeX/Multi-Agent-AI-Research-System">
+<a href="https://github.com/Synapse-CodeX/tubeinsight-ai">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="https://tube-insight-ai-puce.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel" alt="Live Demo">
 </a>
 </p>
 
 <ul>
-<li>Specialized <b>Search, Reader, Writer, and Critic agents</b></li>
-<li>Autonomous research orchestration using LangGraph StateGraph</li>
-<li>Real-time Streamlit dashboard for agent execution and structured research reports</li>
+<li>Large-scale <b>YouTube comment ingestion and AI analysis</b></li>
+<li>AI-powered <b>sentiment and topic discovery</b> across audience discussions</li>
+<li>Semantic retrieval using <b>Sentence Transformers + ChromaDB</b></li>
+<li>LangGraph-based analysis pipeline with <b>real-time SSE progress streaming</b></li>
+<li>LLM-powered audience insights and structured research reports</li>
 </ul>
 
 </td>
