@@ -242,6 +242,16 @@ A <b>multimodal AI-powered fact verification platform</b> that decomposes conten
   </a>
 </div>
 
+<div align="center">
+
+### 🤝 Let's Connect and Build Something Amazing!
+
+**If you love what you see, don't forget to ⭐ star my repositories!**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
+
 
 <img height="200" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
